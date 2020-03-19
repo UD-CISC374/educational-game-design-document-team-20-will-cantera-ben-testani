@@ -1,20 +1,31 @@
 # Game Name
+Time Commander
 
 ## Elevator Pitch
+Time Commander is a strategy based tower defense game where you pool your resources to defend the crystal holding together time and space 
+through active problem solving involving clocks of various formats, timezones, and a whole lot of time goblins seeking the end of the world.
 
 *A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
 
 ## Influences (Brief)
 
-- *Influence #1*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #2*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
-- *Influence #3*:
-  - Medium: *(Television, Games, Literature, Movies, etc.)*
-  - Explanation: *In one paragraph or less, explain why this is an influence.*
+- Bloons Tower Defense Series
+  - Medium: Game, originally browser based, now on mobile and many other platforms
+  - Explanation: The main reason this is an influence is because it is a tower defense game, 
+                 Time Commander is a tower defense game of a similar style and owes some 
+                 inspiration to arguably one of the most successful tower defense games of our time.
+
+- Dungeon Defenders:
+  - Medium: Game, available on a variety of consoles
+  - Explanation: Dungeon Defenders is another tower defense game but one in which the player is
+                 much more involved in the experience. This is an influence because Time Commander 
+                 will be more than setting up a defense and idling, the player is engaged at all times.
+                 
+- The Lady of the Lake:
+  - Medium: Book
+  - Explanation: This is the last book in the Witcher series by: Andrzej Sapkowski. The main character
+                 Cirilla, and her ability to jump to different timelines is intriguing, and Time Commanders
+                 will have the player traveling between past, present, and future.
 
 ## Core Gameplay Mechanics (Brief)
 
