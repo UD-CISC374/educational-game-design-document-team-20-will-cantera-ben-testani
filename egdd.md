@@ -31,45 +31,53 @@ through active problem solving involving clocks of various formats, timezones, a
 
 *Give a very high-level description of any core gameplay mechanics*
 
-- *Gameplay Mechanic #1*
-- *Gameplay Mechanic #2*
-- *Gameplay Mechanic #3*
-- *Gameplay Mechanic #4*
+- Point and click onscreen to construct defenses
+- Use arrow keys to solve clock puzzles frequently 
+- After surviving a number of waves, a new level is displayed, up to three levels
+- Use rewards earned from correctly solving clock puzzles to buy upgrades/disposables/defenses
+- Select disposable items gathered in the game and use then on waves of enemies
+- If enemies make it to the time crystal, the crystals health is drained, the game is over when it reaches zero
+- Incorrect attempts at solving time puzzles results in enemies gaining buffs
 
 # Learning Aspects
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+Telling time
+  - Reading analog clocks, including those without numbers
+Basic arithmetic 
+Strategy based decision making
 
 ## Target Audiences
 
-*Who are your learners?*
+Young people who struggle to tell time without a digital clock to look at.
+The target age range for players is 8-12
 
 ## Target Contexts
 
-*Describe what kinds of formal and informal learning contexts this will be used in (e.g., courses, k-12 computer labs during free time).*
+Ideally this game would be played outside of class to better prepare students for formally learning about telling time.
+Certainly, this game would be great to play during free time given to students in a computer lab. 
 
 ## Learning Objectives
 
-*Remember, Learning Objectives are NOT simply topics. They are statements of observable behavior that a learner can do after the learning experience. You cannot observe someone "understanding" or "knowing" something.*
-
-- *Short Name*: *Formal Learning Objective #1*
-- *Short Name*: *Formal Learning Objective #2*
-- *Short Name*: *Formal Learning Objective #3*
+- Time comprehension: After playing this game, players will be able to properly interpret the time on an analog clock with or without numbers
+- GOAL 2
+- GOAL 3
 
 ## Prerequisite Knowledge
 
 *What do they need to know prior to trying this game?*
 
-- *Prerequisite Learning Objective #1*
-- *Prerequisite Learning Objective #2*
+- Before playing the game, players should be able to do basic arithmetic, ie. adding and subtracting numbers.
+- Before playing the game, players should be able to explain what a tower defense scenario entails.
+- Before playing the game, players should be able to ...
 
 ## Assessment Measures
 
-*Describe how the learning will be assessed, e.g., pre/post multiple-choice test, or SAT, or some other instrument.*
-
-*If proposing a new instrument, briefly and concisely list some example assessment questions.*
+A pre-test and similar post-test should be designed to assess what progress was made as a result of playing the game:
+  - Blank analog clocks without numbers with a given time with which to draw on the clock.
+  - Blank analog clocks with numbers and a given time to draw on the clock.
+  - Basic arithmetic involved questions about how much time is between two or more given times.
 
 # What sets this project apart?
 
