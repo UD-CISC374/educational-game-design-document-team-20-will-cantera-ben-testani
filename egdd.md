@@ -3,9 +3,7 @@ Time Commander
 
 ## Elevator Pitch
 Time Commander is a strategy based tower defense game where you pool your resources to defend the crystal holding together time and space 
-through active problem solving involving clocks of various formats, timezones, and a whole lot of time goblins seeking the end of the world.
-
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+through active problem solving involving clocks of various formats, timezones, and waves of unique enemies.
 
 ## Influences (Brief)
 
@@ -24,12 +22,10 @@ through active problem solving involving clocks of various formats, timezones, a
 - The Lady of the Lake:
   - Medium: Book
   - Explanation: This is the last book in the Witcher series by: Andrzej Sapkowski. The main character
-                 Cirilla, and her ability to jump to different timelines is intriguing, and Time Commanders
+                 Cirilla, and her ability to jump to different timelines is intriguing, and Time Commander
                  will have the player traveling between past, present, and future.
 
 ## Core Gameplay Mechanics (Brief)
-
-*Give a very high-level description of any core gameplay mechanics*
 
 - Point and click onscreen to construct defenses
 - Use arrow keys to solve clock puzzles frequently 
@@ -60,13 +56,11 @@ Certainly, this game would be great to play during free time given to students i
 
 ## Learning Objectives
 
-- Time comprehension: After playing this game, players will be able to properly interpret the time on an analog clock with or without numbers
-- GOAL 2
-- GOAL 3
+- After playing this game, players will be able to properly interpret the time on an analog clock with numbers included on the clock.
+- After playing this game, players will be able to properly interpret the time on an analog clock without numbers included on the clock.
+- After playing this game, players will be able to tell the time on a digital clock given that it uses military time.
 
 ## Prerequisite Knowledge
-
-*What do they need to know prior to trying this game?*
 
 - Before playing the game, players should be able to do basic arithmetic, ie. adding and subtracting numbers.
 - Before playing the game, players should be able to explain what a tower defense scenario entails.
@@ -81,33 +75,27 @@ A pre-test and similar post-test should be designed to assess what progress was 
 
 # What sets this project apart?
 
-*Give some reasons why this game is not like every other game out there. Whether the learning objective is unique, the gameplay mechanics are new, or what. You should persuade the reader that your game is novel and worthy of development. Consider arguments that would be persuasive to a Venture Capitalist, Teacher, or Researcher. These might be focused on learning needs, too.*
-
-- *Reason #1*
-- *Reason #2*
-- *Reason #3*
-- *Reason #4*
-- *etc.*
+- Most tower defense games involve mindlessly watching the players defenses do all the work, in Time Commander, the player has a much more active role.
+- Players will have a different experience each time they play, so there are more opportunities to learn material they may have missed the first time.
+- The learning goal of being able to tell time given a clock is made to be a built in part of the core gameplay mechanics.
+- ...
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-*Describe how people play your game, how many players are involved at once, how they interact with the system works, etc.*
+The game is meant for one player, the player uses the cursor and some buttons on the keyboard to interact with the system to do actions such as building/maintaining defenses, and controlling hordes of enemies.
 
 ## Player Modes
 
-*Your game has one or more player modes. Describe each discrete mode, considering things like menus too. Generally describe the transitions between modes too.*
-
-- *Player mode #1*: *Description*
-- *Player mode #2*: *Description*
-- *etc.*
+Single Player Mode: The player makes their way through three levels by solving time based problems and maintaining their defenses and inventory.
 
 # Gameplay Objectives
 
-- *Primary Objective #1*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
+- Survive waves of enemies:
+    - Description: There are three rounds the player must get through, each involving a number of waves of enemies to get past.
+    - Alignment: This aligns with the learning objectives of reading time from analog and digital clocks in standard and military time because 
+                 many of the players actions in defending their crystal are put together with small time solving puzzles.
 - *Primary Objective #2*:
     - Description: *Description*
     - Alignment: *Describe how this aligns with one or more learning objectives*
@@ -115,11 +103,18 @@ A pre-test and similar post-test should be designed to assess what progress was 
 
 # Procedures/Actions
 
-*Describe the control scheme and what actions a user can take in the game.*
+The player can build structures by selecting and dragging them to the desired location. The player can use their main weapon, time bomb, which will
+initiate a time based question in line with the learning objectives which will need to be solved for the bomb to be utilized. The player can interact
+with icons for one time use disposable items to purchase them for aid in the game.
 
 # Rules
 
-*What resources are available to the player that they make use of?  How does this affect gameplay? How are these resources finite?*
+The main rescource available to the player are the enemies they fend off. Destroying these enemies grant gold which the player can use to buy
+various one time use items to help clear tough enemies, as well as defensive structures to barricade the crystal. The amount of structures the
+player can have at any given time is limited, and the gold needs to be spent strategically as well, managing these limited resources are 
+essential to beating the game.
+
+
 
 # Objects/Entities
 
@@ -160,7 +155,8 @@ A pre-test and similar post-test should be designed to assess what progress was 
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+The games aesthetics should give a magical feeling as if the player is a wizard or witch in their tower using arcane knowledge to fend off foes.
+There should be vibrant, light colors in the background and the structures built by the player should follow suit in looking whimsical/magical.
 
 ## Graphical
 
