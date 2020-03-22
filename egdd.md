@@ -40,9 +40,10 @@ through active problem solving involving clocks of various formats, timezones, a
 ## Learning Domains
 
 Telling time
-  - Reading analog clocks, including those without numbers
-Basic arithmetic 
-Strategy based decision making
+- Reading analog clocks, including those without numbers
+- Reading military time
+- Basic arithmetic 
+- Strategy based decision making
 
 ## Target Audiences
 
@@ -118,13 +119,26 @@ essential to beating the game.
 
 # Objects/Entities
 
-*What other things are in the world that you need to design? These may or may not directly translate to actual objects and classes.*
+- A brief tutorial at the start of the game
+- The players various types of available defenses 
+- different enemy types
+- disposable items to buy
+- A player inventory to hold the disposable items
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
+- There will be three main levels in the game. In each level, the player must survive two waves of enemies which will get increasingly numerous and difficult
+  to deal with. Once the third level is complete, the game is over and the player has won. A final score will be given based on the amount of gold the player has remaining.  
+- Getting through each level: In order for the player to fend off the waves of enemies aproaching their time crystal, they must buy defensive structures 
+  bought with gold they initally earn by using the 'Time Bomb' ability. This ability sends a bomb to a crowd of enemies to clear them, granting the p layer gold in the process. This ability is intertwined with the learning objects because the player must solve a time based question to propery use the 'Time Bomb'
+- Incorrectly geusses to time puzzles: If a player were to fail a time question, for example, if they wanted to use a Time bomb but failed the question 
+  beforehand, gold is taken away from the player (gold can become negative this way) and the enemies the player was targeting with their attack have their
+  movement speed increased.
+- Enemy Movement: Enemies come in waves towards the players time crystal and if they reach it, the crystal is attacked until the player themselves interfere
+  and stop them. Players defenses cannot attack targets that make it behind them.
+- Layout of the map: The player will be on the lefthand side of the map and can build a vertical line of defenses in a limited space. Enemies walk onto the 
+  screen from the right and approach said vertical lines of defenses, first attempting to destroy those. The time crystal is behind the players defensive line
+  and this is ultimately the final locawtion the enemies try to reach.
 
     
 ## Feedback
@@ -161,7 +175,7 @@ There should be vibrant, light colors in the background and the structures built
 ## Graphical
 
 - Characters List
-  - *Characters 1*
+  - Time Goblin: Most basic type of enemy, average movement speed, come in large numbers, no special attacks or attributes.
   - *Characters 2*
   - *...*
 - Textures:
@@ -180,7 +194,7 @@ There should be vibrant, light colors in the background and the structures built
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
+  - A Magic Cave: https://www.youtube.com/watch?v=n9bFQrH3RRg 
   - *Game region/phase/time*: *Example 3*, *Example 4*
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
