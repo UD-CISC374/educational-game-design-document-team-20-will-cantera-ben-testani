@@ -143,23 +143,35 @@ essential to beating the game.
     
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+- Correctly completing the small time puzzles the player must do before taking actions such as using the Time Bomb ability, results in obvious audio queues 
+  to let the player know they were correct.
+- Incorrect attempts at the time puzzles will play a bad sound, it will be clear the anwser was wrong and occasionally a helpful hint is displayed.
+- When completing each of the three levels, the player will observe the background and scenery change along with a change in the ambient music to fit a unique
+  theme for the given level. Also, upon level completion, thte player will be rewarded according to how many time puzzle questions they got right in the 
+  completed level.
+- After playing the game, the ratio of correct to incorrect attempts at time puzzles will be displayed to the player as well as a further analysis of what
+  types of questions they may have done well with along with the ones they struggled with. The hope is that figuring out areas that need to be improved drive
+  players to get better in those areas, by playing the game again or studying time telling more in the classroom.
 
 # Story and Gameplay
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+- To avoid walls of text that nobody wants to read, the player will go through a tutorial which will be brief as to not lose their attention before the game
+  even starts.
+- Mechanically speaking, the tutorial described above will show the player how to place defensive structures and buy items with the gold earned from destroying
+  enemies. 
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+- To teach the core material without a wall of text, the player will go through the tutorial introduced above. The mechanics this tutorial will go over are 
+  closely related to the task of interpreting times from a clock. In essence, the player can learn about the core mechanics of Time Commanders while also 
+  getting an introduction to how telling time in standard/military on clocks of various kinds works.
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+The time crystal holding time and space together is under attack by those who seek the end of the universe! The Time Commander must step up to defend life
+as we know it by building a defense with magical powers controlled by time against the relentless waves of enemies quickly approaching.
 
 ## Storyboarding
 
