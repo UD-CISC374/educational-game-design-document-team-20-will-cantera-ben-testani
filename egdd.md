@@ -177,6 +177,7 @@ as we know it by building a defense with magical powers controlled by time again
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
+
 # Assets Needed
 
 ## Aethestics
@@ -188,6 +189,8 @@ There should be vibrant, light colors in the background and the structures built
 
 - Characters List
   - Time Goblin: Most basic type of enemy, average movement speed, come in large numbers, no special attacks or attributes.
+  - Armored Goblin: More advanced enemy, slow movement speeed, come alone or in small groups, heavy armor and weapons.
+  - Speed Goblin: Slightly advanced enemy, fast movement speed, come in large numbers or waves, light armor and weapons.
   - *Characters 2*
   - *...*
 - Textures:
@@ -195,6 +198,7 @@ There should be vibrant, light colors in the background and the structures built
   - *Texture 2*
   - *...*
 - Environment Art/Textures:
+  - Arcadey background image/texture
   - *Environment Texture 1*
   - *Environment Texture 2*
   - *...*
@@ -212,6 +216,10 @@ There should be vibrant, light colors in the background and the structures built
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
+  - Building a defense: https://www.youtube.com/watch?v=Wc1Ae0kWdQ0
+  - Killing an enemy: https://www.youtube.com/watch?v=3w-2gUSus34
+  - Answering a question correctly: https://www.youtube.com/watch?v=KYQP4JJr-kI
+  - Answering a question incorrectly: https://www.youtube.com/watch?v=dNX-FeeOpwQ
   - *Game Interaction*: *Example 1*, *Example 2*
   - *Game Interaction*: *Example 3*, *Example 4*
 
