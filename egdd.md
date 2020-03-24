@@ -177,6 +177,18 @@ as we know it by building a defense with magical powers controlled by time again
 
 *Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
+![question image](https://i.imgur.com/rYdqS6X.jpg)
+This screen would show an example of a clock and a question asking what time it is, if the player gets it right they get a timebomb to destroy enemies, or else they lose the gold it costs for the question.
+
+![main game image](https://i.imgur.com/20jVJah.jpg)
+This is the main screen where the enemies will try to get past the players defenses to get to the gem and destroy it
+
+![building image](https://i.imgur.com/f7tEVrS.jpg)
+This is the screen where the player is adding more defensive structures to help fend off the enemies
+
+![destroying gem image](https://i.imgur.com/SuWPalV.jpg)
+This is the image where the player is about to lose the game because all of the enemies have made it past the defenses and are destroying the gem
+
 
 # Assets Needed
 
