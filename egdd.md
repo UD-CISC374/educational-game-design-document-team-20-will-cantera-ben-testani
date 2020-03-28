@@ -64,8 +64,8 @@ Certainly, this game would be great to play during free time given to students i
 ## Prerequisite Knowledge
 
 - Before playing the game, players should be able to do basic arithmetic, ie. adding and subtracting numbers.
-- Before playing the game, players should be able to explain what a tower defense scenario entails.
-- Before playing the game, players should be able to ...
+- Before playing the game, players should be able to explain what a tower defense scenario is about.
+- Before playing the game, players should be able to identify different types of clocks, mainly: analog, digital
 
 ## Assessment Measures
 
@@ -78,8 +78,8 @@ A pre-test and similar post-test should be designed to assess what progress was 
 
 - Most tower defense games involve mindlessly watching the players defenses do all the work, in Time Commander, the player has a much more active role.
 - Players will have a different experience each time they play, so there are more opportunities to learn material they may have missed the first time.
-- The learning goal of being able to tell time given a clock is made to be a built in part of the core gameplay mechanics.
-- ...
+- The learning goals of this game are built in to the games mechanics, to get anywhere in this game, players must take advantage of the time puzzles in the
+  best way in order to progress.
 
 # Player Interaction Patterns and Modes
 
@@ -100,13 +100,13 @@ Single Player Mode: The player makes their way through three levels by solving t
 - *Primary Objective #2*:
     - Description: *Description*
     - Alignment: *Describe how this aligns with one or more learning objectives*
-- *etc.*
+
 
 # Procedures/Actions
 
 The player can build structures by selecting and dragging them to the desired location. The player can use their main weapon, time bomb, which will
-initiate a time based question in line with the learning objectives which will need to be solved for the bomb to be utilized. The player can interact
-with icons for one time use disposable items to purchase them for aid in the game.
+initiate a time telling based question in line with the learning objectives which will need to be solved for the bomb to be utilized. The player can
+interact with icons for one time use disposable items to purchase them for aid in the game.
 
 # Rules
 
@@ -175,7 +175,32 @@ as we know it by building a defense with magical powers controlled by time again
 
 ## Storyboarding
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+- The typical playthrough of the game will go as follows:
+  - The player is asked whether or not they would like to complete a short tutorial. If they anwser yes, the a tutorial screen is displayed and 
+    some introductory information is given:
+      - How to handle time quesions
+      - How to spend gold earned on defenses and consumable items
+      - What the goal of the game is (defending the time crystal)
+      - Information about the levels in the game, there are currently three
+  - After the tutorial, or if the player said no to the tutorial, the player is given one initial defensive structure to use for the first wave 
+    of enemies. 
+    - They will have 20 seconds to place said structure and come up with a strategy
+    - The first enemies arrive, the player must utilize the time bomb ability to help get rid of enemies. This is done by solving a time question
+      - When a time question is answered correctly, the player gets access to a time bomb which they can place somewhere on the field, hopefully on
+        a group of enemies and not the crystal they are defending. There is an easter egg that results in the destruction of the players time crystal
+        if they intentionally put a time bomb near the crystal.
+      - Players also have the option of selling their defenses for a reduced price from what they bought it at. This will not apply to consumables.
+    - If a time question is answered incorrectly, the player loses gold which can also go into a negative value which is bad.
+    - After surviving some barrages, they player will have earned enough gold to buy more defenses, or consumable items wich will do a host of things:
+      - Turn the ground into mud to slow down enemies
+      - Increase the area of effect of the time bomb ability
+      - Lay traps on the ground to stop enemies altogether (this will have limits however, to OP)
+    - This formula is followed for 9 waves spread across 3 levels
+    - Once the last level is completed, victory is achieved and a score is given based on:
+      - The total health of the players crystal
+      - Amount of gold left unspent
+      - Total number of correct answers to time questions vs. incorrect answers
+
 
 ![question image](https://i.imgur.com/rYdqS6X.jpg)
 This screen would show an example of a clock and a question asking what time it is, if the player gets it right they get a timebomb to destroy enemies, or else they lose the gold it costs for the question.
@@ -204,36 +229,26 @@ There should be vibrant, light colors in the background and the structures built
   - Armored Goblin: More advanced enemy, slow movement speeed, come alone or in small groups, heavy armor and weapons.
   - Speed Goblin: Slightly advanced enemy, fast movement speed, come in large numbers or waves, light armor and weapons.
   - *Characters 2*
-  - *...*
 - Textures:
   - *Texture 1*
   - *Texture 2*
-  - *...*
 - Environment Art/Textures:
   - Arcadey background image/texture
   - *Environment Texture 1*
   - *Environment Texture 2*
-  - *...*
 
 
 ## Audio
 
-
-*Game region/phase/time are ways of designating a particularly important place in the game.*
-
 - Music List (Ambient sound)
   - A Magic Cave: https://www.youtube.com/watch?v=n9bFQrH3RRg 
-  - *Game region/phase/time*: *Example 3*, *Example 4*
-  
-*Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
+  - Victory Fanfare: https://www.youtube.com/watch?v=3suGfhnT2Sg&t=11s  
 
 - Sound List (SFX)
   - Building a defense: https://www.youtube.com/watch?v=Wc1Ae0kWdQ0
   - Killing an enemy: https://www.youtube.com/watch?v=3w-2gUSus34
   - Answering a question correctly: https://www.youtube.com/watch?v=KYQP4JJr-kI
   - Answering a question incorrectly: https://www.youtube.com/watch?v=dNX-FeeOpwQ
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
 
 
 # Metadata
