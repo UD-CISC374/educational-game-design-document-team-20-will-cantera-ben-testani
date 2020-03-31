@@ -64,7 +64,7 @@ Certainly, this game would be great to play during free time given to students i
 ## Prerequisite Knowledge
 
 - Before playing the game, players should be able to do basic arithmetic, ie. adding and subtracting numbers.
-- Before playing the game, players should be able to explain what a tower defense scenario is about.
+- Before playing the game, players should be able to explain what a tower defense scenario entails.
 - Before playing the game, players should be able to identify different types of clocks, mainly: analog, digital
 
 ## Assessment Measures
@@ -94,12 +94,14 @@ Single Player Mode: The player makes their way through three levels by solving t
 # Gameplay Objectives
 
 - Survive waves of enemies:
-    - Description: There are three rounds the player must get through, each involving a number of waves of enemies to get past.
+    - Description: There are three levels the player must get through, each containing three waves of enemies to get past.
     - Alignment: This aligns with the learning objectives of reading time from analog and digital clocks in standard and military time because 
                  many of the players actions in defending their crystal are put together with small time solving puzzles.
-- *Primary Objective #2*:
-    - Description: *Description*
-    - Alignment: *Describe how this aligns with one or more learning objectives*
+- Achieve a high score by the end of the game:
+    - Description: This is hopefully a motivator to come back and play the game more than once as the player can get feedback as to how well they
+                   did with the time questions throughout the game and know what to improve upon.
+    - Alignment: The score system pushes the learning objectives forward effectively by helping the player figure out what aspects of 
+                 telling time they are struggling with and giving helplful tips for their unique needs.
 
 
 # Procedures/Actions
@@ -110,11 +112,12 @@ interact with icons for one time use disposable items to purchase them for aid i
 
 # Rules
 
-The main rescource available to the player are the enemies they fend off. Destroying these enemies grant gold which the player can use to buy
-various one time use items to help clear tough enemies, as well as defensive structures to barricade the crystal. The amount of structures the
-player can have at any given time is limited, and the gold needs to be spent strategically as well, managing these limited resources are 
-essential to beating the game.
-
+The main resource available to the player are the enemies they fend off. Successfully clearing these enemies off the screen with defensive structures
+or the time bomb ability grant the player gold to spend on better defenses or powerful but temporary upgrades through the consumable items available for
+purchase. Penalties result in the player losing gold, and they can potentially go into debt, preventing item buying. This is caused by answering time
+questions incorrectly. After fending off three waves of enemies, the player will have beaten the current level, and will have to go through two more levels, so three levels in total, each containing three waves. At the end of the game, regardless if the player won or lost, a summary of some stats is presented;
+such as waves survived, total gold earned, enemies destroyed, among others. These are used to give the player a final score and let them know which 
+time questions they should work to improve on.
 
 
 # Objects/Entities
@@ -228,14 +231,12 @@ There should be vibrant, light colors in the background and the structures built
   - Time Goblin: Most basic type of enemy, average movement speed, come in large numbers, no special attacks or attributes.
   - Armored Goblin: More advanced enemy, slow movement speeed, come alone or in small groups, heavy armor and weapons.
   - Speed Goblin: Slightly advanced enemy, fast movement speed, come in large numbers or waves, light armor and weapons.
-  - *Characters 2*
+  - The Punisher: May appear once per game, throws itself into players defenses, destroying one of them and decimating, (taking 10% of) the players gold.
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
+  - To Be Added As Needed
 - Environment Art/Textures:
   - Arcadey background image/texture
-  - *Environment Texture 1*
-  - *Environment Texture 2*
+  - More To Be Added As Needed
 
 
 ## Audio
@@ -243,12 +244,14 @@ There should be vibrant, light colors in the background and the structures built
 - Music List (Ambient sound)
   - A Magic Cave: https://www.youtube.com/watch?v=n9bFQrH3RRg 
   - Victory Fanfare: https://www.youtube.com/watch?v=3suGfhnT2Sg&t=11s  
+  - More To Be Added As Needed
 
 - Sound List (SFX)
   - Building a defense: https://www.youtube.com/watch?v=Wc1Ae0kWdQ0
   - Killing an enemy: https://www.youtube.com/watch?v=3w-2gUSus34
   - Answering a question correctly: https://www.youtube.com/watch?v=KYQP4JJr-kI
   - Answering a question incorrectly: https://www.youtube.com/watch?v=dNX-FeeOpwQ
+  - More To Be Added As Needed
 
 
 # Metadata
