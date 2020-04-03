@@ -205,7 +205,7 @@ as we know it by building a defense with magical powers controlled by time again
       - Total number of correct answers to time questions vs. incorrect answers
 
 
-![question image](https://i.imgur.com/rYdqS6X.jpg)
+![board1](https://user-images.githubusercontent.com/47586729/78372356-2cc76d00-7597-11ea-8204-2d20cb97520a.jpg)
 This screen would show an example of a clock and a question asking what time it is, if the player gets it right they get a timebomb to destroy enemies, or else they lose the gold it costs for the question.
 
 ![main game image](https://i.imgur.com/20jVJah.jpg)
