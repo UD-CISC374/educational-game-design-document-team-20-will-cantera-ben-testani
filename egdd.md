@@ -208,13 +208,13 @@ as we know it by building a defense with magical powers controlled by time again
 ![board1](https://user-images.githubusercontent.com/47586729/78372356-2cc76d00-7597-11ea-8204-2d20cb97520a.jpg)
 This screen would show an example of a clock and a question asking what time it is, if the player gets it right they get a timebomb to destroy enemies, or else they lose the gold it costs for the question.
 
-![main game image](https://i.imgur.com/20jVJah.jpg)
+![board3](https://user-images.githubusercontent.com/47586729/78372587-7617bc80-7597-11ea-86b1-744603804dfc.jpg)
 This is the main screen where the enemies will try to get past the players defenses to get to the gem and destroy it
 
-![building image](https://i.imgur.com/f7tEVrS.jpg)
+![board2](https://user-images.githubusercontent.com/47586729/78372606-7b750700-7597-11ea-990b-fa6b81592929.jpg)
 This is the screen where the player is adding more defensive structures to help fend off the enemies
 
-![destroying gem image](https://i.imgur.com/SuWPalV.jpg)
+![board4](https://user-images.githubusercontent.com/47586729/78372623-7f088e00-7597-11ea-8705-3267e729b27b.jpg)
 This is the image where the player is about to lose the game because all of the enemies have made it past the defenses and are destroying the gem
 
 
