@@ -211,8 +211,7 @@ This screen would show an example of a clock and a question asking what time it 
 ![board3](https://user-images.githubusercontent.com/47586729/78372587-7617bc80-7597-11ea-86b1-744603804dfc.jpg)
 This is the main screen where the enemies will try to get past the players defenses to get to the gem and destroy it
 
-![board2](https://user-images.githubusercontent.com/47586729/78372606-7b750700-7597-11ea-990b-fa6b81592929.jpg)
-This is the screen where the player is adding more defensive structures to help fend off the enemies
+![key](https://user-images.githubusercontent.com/47586729/78377171-44a1ef80-759d-11ea-8898-815576ea227b.jpg)This is the screen where the player is adding more defensive structures to help fend off the enemies
 
 ![board4](https://user-images.githubusercontent.com/47586729/78372623-7f088e00-7597-11ea-8705-3267e729b27b.jpg)
 This is the image where the player is about to lose the game because all of the enemies have made it past the defenses and are destroying the gem
