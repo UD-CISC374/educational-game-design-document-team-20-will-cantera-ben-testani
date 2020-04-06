@@ -27,8 +27,8 @@ through active problem solving involving clocks of various formats, timezones, a
 
 ## Core Gameplay Mechanics (Brief)
 
-- Point and click onscreen to construct defenses
-- Use arrow keys to solve clock puzzles frequently 
+- Point and click onscreen to construct defenses in the direction displayed by the clock
+- Use arrow keys and mouse to solve clock puzzles frequently 
 - After surviving a number of waves, a new level is displayed, up to three levels
 - Use rewards earned from correctly solving clock puzzles to buy upgrades/disposables/defenses
 - Select disposable items gathered in the game and use then on waves of enemies
