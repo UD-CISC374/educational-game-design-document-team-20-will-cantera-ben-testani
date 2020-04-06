@@ -132,16 +132,18 @@ time questions they should work to improve on.
 
 - There will be three main levels in the game. In each level, the player must survive two waves of enemies which will get increasingly numerous and difficult
   to deal with. Once the third level is complete, the game is over and the player has won. A final score will be given based on the amount of gold the player has remaining.  
+- Analog clocks will come onto the players screen throughout the game indicating where the next set if enemies will come from.  This is the direction that the player should build his defenses towards.
 - Getting through each level: In order for the player to fend off the waves of enemies aproaching their time crystal, they must buy defensive structures 
-  bought with gold they initally earn by using the 'Time Bomb' ability. This ability sends a bomb to a crowd of enemies to clear them, granting the player gold in the process. This ability is intertwined with the learning objects because the player must solve a time based question to propery use the 'Time Bomb'
+  bought with gold they initally begin with. 
+- Occassionally players will have the chance to use a 'Time Bomb' ability.  This ability sends a bomb to a crowd of enemies to clear them, granting the player gold in the process. This ability is intertwined with the learning objects because the player must solve a time based question to propery use the 'Time Bomb'
 - Incorrectly geusses to time puzzles: If a player were to fail a time question, for example, if they wanted to use a Time bomb but failed the question 
   beforehand, gold is taken away from the player (gold can become negative this way) and the enemies the player was targeting with their attack have their
   movement speed increased.
 - Enemy Movement: Enemies come in waves towards the players time crystal and if they reach it, the crystal is attacked until the player themselves interfere
   and stop them. Players defenses cannot attack targets that make it behind them.
 - Layout of the map: The player will be start in the middle of the screen where the time crystal is and will have space around it to build defenses against incoming enemies. Enemies walk onto the 
-  screen from the right and approach said vertical lines of defenses, first attempting to destroy those. The time crystal is behind the players defensive line
-  and this is ultimately the final locawtion the enemies try to reach.
+  screen from any direction and approach said defenses, first attempting to destroy those. The time crystal is behind the players defensive line
+  and this is ultimately the final location the enemies try to reach.
 
     
 ## Feedback
