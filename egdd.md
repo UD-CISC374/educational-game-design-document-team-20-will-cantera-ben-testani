@@ -140,18 +140,19 @@ give the enemies a chance to drop a chest the player can open to get powerful up
 
 ## Core Gameplay Mechanics (Detailed)
 
-- There will be three main levels in the game. In each level, the player must survive two waves of enemies which will get increasingly numerous and difficult
-  to deal with. Once the third level is complete, the game is over and the player has won. A final score will be given based on the amount of gold the player has remaining.  
-- Getting through each level: In order for the player to fend off the waves of enemies aproaching their time crystal, they must buy defensive structures 
-  bought with gold they initally earn by using the 'Time Bomb' ability. This ability sends a bomb to a crowd of enemies to clear them, granting the player gold in the process. This ability is intertwined with the learning objects because the player must solve a time based question to propery use the 'Time Bomb'
-- Incorrectly geusses to time puzzles: If a player were to fail a time question, for example, if they wanted to use a Time bomb but failed the question 
-  beforehand, gold is taken away from the player (gold can become negative this way) and the enemies the player was targeting with their attack have their
-  movement speed increased.
+- There will be three main levels in the game. In each level, the player must survive three waves of enemies which will get increasingly numerous and difficult
+ to deal with. Once the third level is complete, the game is over and the player has won. A final score will be given based on the amount of chests successfully opened and number of enemies vanquished.
+- Text will come onto the players screen throughout the game indicating where the next set if enemies will come from. This is the direction that the player should build his defenses towards during the builing time. For example, if they player is warned enemies are approaching from 3:00, they should build a defense
+in that direction
+- While enemies are attacking, the player cannot build any additional structures. The idea is, they should have prepared correctly based on the hints given
+ before the attack.
+- If the player failed to position the defensive structures correctly in the build time, they have the opportunity to use consumable items to hold off waves of
+ enemies if they have any.
+- Getting through each level: In order for the player to fend off the waves of enemies aproaching their time crystal, they must buy defensive structures
+ either given to them after each round or earned from opening chests.
 - Enemy Movement: Enemies come in waves towards the players time crystal and if they reach it, the crystal is attacked until the player themselves interfere
-  and stop them. Players defenses cannot attack targets that make it behind them.
-- Layout of the map: The player will be start in the middle of the screen where the time crystal is and will have space around it to build defenses against incoming enemies. Enemies walk onto the 
-  screen from the right and approach said vertical lines of defenses, first attempting to destroy those. The time crystal is behind the players defensive line
-  and this is ultimately the final locawtion the enemies try to reach.
+ and stop them. Players defenses will be able to attack targets that have moved behind them to the crystal.
+- Layout of the map: The players base is in the middle of the screen where the time crystal is and will have space around it to build defenses against incoming enemies. Enemies walk onto the screen based on a random time and approach the time crystal. The time crystal is behind the players defensive line and this is the final location the enemies try to reach.
 
     
 ## Feedback
