@@ -106,7 +106,7 @@ Single Player Mode: The player makes their way through three levels by solving t
 
 # Procedures/Actions
 
-The player can build structures by selecting and dragging them to the desired location. The player can use their main weapon, time bomb, which will
+The player can build structures by selecting and dragging them to the desired location. The player can build defenses in the indicated direction to defend the time crystal and occasionally recieve bonuses from chests and use a special weapon, time bomb, which will
 initiate a time telling based question in line with the learning objectives which will need to be solved for the bomb to be utilized. The player can
 interact with icons for one time use disposable items to purchase them for aid in the game.
 
