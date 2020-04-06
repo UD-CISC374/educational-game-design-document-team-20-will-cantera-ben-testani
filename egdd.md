@@ -27,13 +27,14 @@ through active problem solving involving clocks of various formats, timezones, a
 
 ## Core Gameplay Mechanics (Brief)
 
-- Point and click onscreen to construct defenses in the direction displayed by the clock
-- Use arrow keys and mouse to solve clock puzzles frequently for rewards/powerups
+- Point and click onscreen to construct defenses in the direction hinted at by the announcer
+- Use the mouse to set the clocks involved with chest opening to the correct time to open the chest.
 - After surviving a number of waves, a new level is displayed, up to three levels
-- Use rewards earned from correctly solving clock puzzles to buy upgrades/disposables/defenses
+- Use rewards earned from opening chests to buy defend the crystal by spending the upgrade points and using consumable items.
 - Select disposable items gathered in the game and use then on waves of enemies
 - If enemies make it to the time crystal, the crystals health is drained, the game is over when it reaches zero
-- Incorrect attempts at solving time puzzles results in enemies gaining buffs
+- Incorrect attempts at opening chests results in lost items that could have been critically important.
+
 
 # Learning Aspects
 
@@ -50,10 +51,12 @@ Telling time
 Young people who struggle to tell time without a digital clock to look at.
 The target age range for players is 8-12
 
+
 ## Target Contexts
 
 Ideally this game would be played outside of class to better prepare students for formally learning about telling time.
 Certainly, this game would be great to play during free time given to students in a computer lab. 
+
 
 ## Learning Objectives
 
@@ -61,11 +64,13 @@ Certainly, this game would be great to play during free time given to students i
 - After playing this game, players will be able to properly interpret the time on an analog clock without numbers included on the clock.
 - After playing this game, players will be able to tell the time on a digital clock given that it uses military time.
 
+
 ## Prerequisite Knowledge
 
 - Before playing the game, players should be able to do basic arithmetic, ie. adding and subtracting numbers.
 - Before playing the game, players should be able to explain what a tower defense scenario entails.
 - Before playing the game, players should be able to identify different types of clocks, mainly: analog, digital
+
 
 ## Assessment Measures
 
@@ -74,59 +79,64 @@ A pre-test and similar post-test should be designed to assess what progress was 
   - Blank analog clocks with numbers and a given time to draw on the clock.
   - Basic arithmetic involved questions about how much time is between two or more given times.
 
+
 # What sets this project apart?
 
-- Most tower defense games involve mindlessly watching the players defenses do all the work, in Time Commander, the player has a much more active role.
+- Most tower defense games involve mindlessly watching the players defenses do all the work, in Time Commander, the player has an opportunity to learn
+  about telling time in their decision makeing and will have a more active role in terms of using consumable items during enemy onslaughts.
 - Players will have a different experience each time they play, so there are more opportunities to learn material they may have missed the first time.
-- The learning goals of this game are built in to the games mechanics, to get anywhere in this game, players must take advantage of the time puzzles in the
-  best way in order to progress.
+- This isn't a typical tower defense game. Enemies do not predictably come down the same lane each level. In Time Commander, enemies approach the players
+  base randomly from three-hundred and sixty degrees based on hours on an analog clock.
+
 
 # Player Interaction Patterns and Modes
 
 ## Player Interaction Pattern
 
-The game is meant for one player, the player uses the cursor and some buttons on the keyboard to interact with the system to do actions such as building/maintaining defenses, and controlling hordes of enemies.
+The game is meant for one player, the player uses the cursor and some buttons on the keyboard to interact with the system to do actions such as building/maintaining defenses, and ceasing hordes of enemies.
+
 
 ## Player Modes
 
 Single Player Mode: The player makes their way through three levels by solving time based problems and maintaining their defenses and inventory.
+
 
 # Gameplay Objectives
 
 - Survive waves of enemies:
     - Description: There are three levels the player must get through, each containing three waves of enemies to get past.
     - Alignment: This aligns with the learning objectives of reading time from analog and digital clocks in standard and military time because 
-                 many of the players actions in defending their crystal are put together with small time solving puzzles.
+                 the player must make their decisions with time and the clock in the game background in mind by using the hints to correctly place defenses.
 - Achieve a high score by the end of the game:
     - Description: This is hopefully a motivator to come back and play the game more than once as the player can get feedback as to how well they
                    did with the time questions throughout the game and know what to improve upon.
     - Alignment: The score system pushes the learning objectives forward effectively by helping the player figure out what aspects of 
-                 telling time they are struggling with and giving helplful tips for their unique needs.
+                 telling time they are struggling with, and giving helplful tips for their unique needs.
 
 
 # Procedures/Actions
 
-The player can build structures by selecting and dragging them to the desired location. The player can build defenses in the indicated direction to defend the time crystal and occasionally recieve bonuses from chests and use a special weapon, time bomb, which will
-initiate a time telling based question in line with the learning objectives which will need to be solved for the bomb to be utilized. The player can
-interact with icons for one time use disposable items to purchase them for aid in the game.
+The player can build structures by selecting and dragging them to the desired location. The player can earn upgrade points and consumable items by opening
+chests obtained from vanquished enemies. The points can buy upgrades to the players defenses and the consumable items can be used during enemy attacks to
+help the defense clear out enemies or bail the player out if they did not correctly place a defense in an area being attacked. Chests can be opened up after 
+waves by interacting with the clock lock visual on the chest. If the player manages to set the clock to the correct time given on a digital clock, the
+chest opens.
+
 
 # Rules
 
 The main resource available to the player are the enemies they fend off. Successfully clearing these enemies off the screen with defensive structures
-or the time bomb ability grant the player gold to spend on better defenses or powerful but temporary upgrades through the consumable items available for
-purchase. Penalties result in the player losing gold, and they can potentially go into debt, preventing item buying. This is caused by answering time
-questions incorrectly. After fending off three waves of enemies, the player will have beaten the current level, and will have to go through two more levels, so three levels in total, each containing three waves. At the end of the game, regardless if the player won or lost, a summary of some stats is presented;
-such as waves survived, total gold earned, enemies destroyed, among others. These are used to give the player a final score and let them know which 
-time questions they should work to improve on.
+give the enemies a chance to drop a chest the player can open to get powerful upgrades and consumable items. Failing to open chests results in a big loss for the player as they will not be able to upgrade their defenses or use consumable items. After fending off three waves of enemies, the player will have beaten the current level, and will have to go through two more levels, so three levels in total, each containing three waves. At the end of the game, regardless if the player won or lost, a summary of some stats is presented; such as waves survived, total points earned, enemies destroyed, how many chests were opened. These are used to give the player a final score and let them know which time questions they should work to improve on.
 
 
 # Objects/Entities
 
-- A brief tutorial at the start of the game
+- A brief "tutorial" at the start of the game, how to place a structure/open a chest
 - The players various types of available defenses 
 - different enemy types
 - disposable items to buy
 - A player inventory to hold the disposable items
+
 
 ## Core Gameplay Mechanics (Detailed)
 
@@ -144,6 +154,7 @@ in that direction
  and stop them. Players defenses will be able to attack targets that have moved behind them to the crystal.
 - Layout of the map: The players base is in the middle of the screen where the time crystal is and will have space around it to build defenses against incoming enemies. Enemies walk onto the screen based on a random time and approach the time crystal. The time crystal is behind the players defensive line and this is the final location the enemies try to reach.
 
+
     
 ## Feedback
 
@@ -153,7 +164,6 @@ in that direction
 - When completing each of the three levels, the player will observe the background and scenery change along with a change in the ambient music to fit a unique
   theme for the given level. Also, upon level completion, the player will be rewarded according to how much health the ctrystal hass left and how many chests they were able to open
 - After playing the game, the ratio of correct to incorrect attempts at opening chests will be displayed to the player as well as the number of enemies    that got through at which times. The hope is that this will show players where their skill level is at and motivate them to do better next time.
->>>>>>> temp
 
 
 # Story and Gameplay
@@ -179,31 +189,75 @@ as we know it by building a defense with magical powers controlled by time again
 ## Storyboarding
 
 - The typical playthrough of the game will go as follows:
-  - The player is asked whether or not they would like to complete a short tutorial. If they anwser yes, the a tutorial screen is displayed and 
-    some introductory information is given:
-      - How to handle time quesions
-      - How to spend gold earned on defenses and consumable items
-      - What the goal of the game is (defending the time crystal)
-      - Information about the levels in the game, there are currently three
-  - After the tutorial, or if the player said no to the tutorial, the player is given one initial defensive structure to use for the first wave 
-    of enemies. 
-    - They will have 20 seconds to place said structure and come up with a strategy
-    - The first enemies arrive, the player must utilize the time bomb ability to help get rid of enemies. This is done by solving a time question
-      - When a time question is answered correctly, the player gets access to a time bomb which they can place somewhere on the field, hopefully on
-        a group of enemies and not the crystal they are defending. There is an easter egg that results in the destruction of the players time crystal
-        if they intentionally put a time bomb near the crystal.
-      - Players also have the option of selling their defenses for a reduced price from what they bought it at. This will not apply to consumables.
-    - If a time question is answered incorrectly, the player loses gold which can also go into a negative value which is bad.
-    - After surviving some barrages, they player will have earned enough gold to buy more defenses, or consumable items wich will do a host of things:
-      - Turn the ground into mud to slow down enemies
-      - Increase the area of effect of the time bomb ability
-      - Lay traps on the ground to stop enemies altogether (this will have limits however, to OP)
-    - This formula is followed for 9 waves spread across 3 levels
-    - Once the last level is completed, victory is achieved and a score is given based on:
-      - The total health of the players crystal
-      - Amount of gold left unspent
-      - Total number of correct answers to time questions vs. incorrect answers
+  - The player must defend the time crystal located in the center of the screen which sits ontop of a very large analog clock without numbers.
+  - The player will start out with one basic defensive structure and a warning that an enemy is coming from a certain time, say 5:00
+    - The player will have to choose a position to place the structure, hopefully at 5:00 and and enemy will come to that position to attack.
+      - If the player messed this up, that's fine, it is just one enemy and is meant to be a small tutorial of sorts. 
+      - The enemy always drops a chest and the player will have the opportunity to open it by setting the clock to the correct time given in 12 hour time.
+      - This wraps up the tutorial portion
+    - Now the first real wave comes, the player is given two additional defensive structures to place along with a warning of where the enemies are coming from
+      - The player should survive the onslaught and collect more chest drops for more consumable items as well as upgrade points to help with later waves.
+      - After each wave the player has some time to set up more defenses based on given information about which direction enemies come from 
+      - Players may also purchase upgrades to defenses with points earned from opening chests.
+    - This pattern continues for three waves per level. There are three levels in total, so nine waves overall.
+    - Times at which the enemies appraoch the players base are random, enemy types are random, so the game has great replayability.
+    - By the end of the third level, the player wins and is presented an overall summary of how they did.
+      - This is based on hits the crystal took, successfull attempts of opening chests, and total number of enemies vanquished.
+    
 
+
+![board1](https://user-images.githubusercontent.com/47586729/78372356-2cc76d00-7597-11ea-8204-2d20cb97520a.jpg)
+This screen would show an example of a clock and a question asking what time it is, if the player gets it right they get a timebomb to destroy enemies, or else they lose the gold it costs for the question.
+
+![board3](https://user-images.githubusercontent.com/47586729/78372587-7617bc80-7597-11ea-86b1-744603804dfc.jpg)
+This is the main screen where the enemies will try to get past the players defenses to get to the gem and destroy it
+
+![forge](https://user-images.githubusercontent.com/47586729/78379745-d7905900-75a0-11ea-8870-8e8a9b89a1aa.jpg)This is the screen where the player is adding more defensive structures to help fend off the enemies
+
+![board4](https://user-images.githubusercontent.com/47586729/78372623-7f088e00-7597-11ea-8705-3267e729b27b.jpg)
+This is the image where the player is about to lose the game because all of the enemies have made it past the defenses and are destroying the gem
+
+
+# Assets Needed
+
+## Aethestics
+
+The games aesthetics should give a magical feeling as if the player is a wizard or witch in their tower using arcane knowledge to fend off foes.
+There should be vibrant, light colors in the background and the structures built by the player should follow suit in looking whimsical/magical.
+
+## Graphical
+
+- Characters List
+  - Time Goblin: Most basic type of enemy, average movement speed, come in large numbers, no special attacks or attributes.
+  - Armored Goblin: More advanced enemy, slow movement speeed, come alone or in small groups, heavy armor and weapons.
+  - Speed Goblin: Slightly advanced enemy, fast movement speed, come in large numbers or waves, light armor and weapons.
+  - The Punisher: May appear once per game, throws itself into players defenses, destroying one of them and decimating, (taking 10% of) the players gold.
+- Textures:
+  - To Be Added As Needed
+- Environment Art/Textures:
+  - Arcadey background image/texture
+  - More To Be Added As Needed
+
+
+## Audio
+
+- Music List (Ambient sound)
+  - A Magic Cave: https://www.youtube.com/watch?v=n9bFQrH3RRg 
+  - Victory Fanfare: https://www.youtube.com/watch?v=3suGfhnT2Sg&t=11s  
+  - More To Be Added As Needed
+
+- Sound List (SFX)
+  - Building a defense: https://www.youtube.com/watch?v=Wc1Ae0kWdQ0
+  - Killing an enemy: https://www.youtube.com/watch?v=3w-2gUSus34
+  - Answering a question correctly: https://www.youtube.com/watch?v=KYQP4JJr-kI
+  - Answering a question incorrectly: https://www.youtube.com/watch?v=dNX-FeeOpwQ
+  - More To Be Added As Needed
+
+
+# Metadata
+
+* Template created by Austin Cory Bart <acbart@udel.edu>, Mark Sheriff, Alec Markarian, and Benjamin Stanley.
+* Version 0.0.3
 
 ![board1](https://user-images.githubusercontent.com/47586729/78372356-2cc76d00-7597-11ea-8204-2d20cb97520a.jpg)
 This screen would show an example of a clock and a question asking what time it is, if the player gets it right they get a timebomb to destroy enemies, or else they lose the gold it costs for the question.
